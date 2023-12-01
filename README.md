@@ -20,7 +20,7 @@ For exact explanation of RF feed point connection refer to [this page](https://u
 
 #Antenna spectral characteristic
 
-<img src="pictures/QFH-Antenna-868MHz-S11.png" />
+<img src="pictures/QFH-Antenna-433MHz-S11.png" />
 <img src="pictures/QFH-Antenna-868MHz-SmithChart.png" />
 <img src="pictures/QFH-Antenna-868MHz-VSWR.png" />
 
