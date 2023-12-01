@@ -94,3 +94,6 @@ CYLH = 80; // mm height of support cylinder.
 SLICES = 20;
 EXTRUSION_WIDTH=0.67;
 pedestal_height = 1;
+ThornsRot = 0; // standard feedpoint 
+//ThornsRot = 90; // anit-standard feedpoint 
+
